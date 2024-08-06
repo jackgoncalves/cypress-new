@@ -1,0 +1,6 @@
+.DS_Store - arquivo oculto que é criado as vezes em sistema mac
+cypress.env.json
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+node_modules/
